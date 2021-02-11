@@ -1,0 +1,28 @@
+h1{
+    position: relative;
+    top: opx;
+    bottom: 20px;
+    text-align: center;
+    color: red;
+    
+}
+
+.par{
+    position: relative;
+    bottom: 50px;
+    top: 100px;
+    left: 420px;
+
+    width: 500px;
+    height: 300px;
+    
+   
+    
+
+}
+p{
+    color: white;
+    font-size: 1pc;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
